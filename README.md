@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Currently studying MSc in Quantitative Finance at PolyU.
+Got BEc in Investments from CUFE.
+Interested in quant strategy and DL/ML application in relevant field.
