@@ -19,4 +19,4 @@ Currently studying MSc in Quantitative Finance at PolyU.
 
 Got BEc in Investments from CUFE.
 
-Interested in quant strategy and DL/ML application in relevant field.
+Interested in algorithm trading and DL/ML application in relevant field.
